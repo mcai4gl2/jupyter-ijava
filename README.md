@@ -15,3 +15,4 @@ The image is based on `jupyter/base-notebook`. Java 17 is installed on top with 
 
 e.g.:
 ![IJava Example](IJava.png)
+
