@@ -16,3 +16,7 @@ The image is based on `jupyter/base-notebook`. Java 17 is installed on top with 
 e.g.:
 ![IJava Example](IJava.png)
 
+To use the docker image, run with:
+```
+docker run mcai4gl2/jupyter-ijava:latest
+```
