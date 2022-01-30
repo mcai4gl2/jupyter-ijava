@@ -14,4 +14,4 @@ I decided to build this docker image so I can use IJava in the same jupyter inst
 The image is based on `jupyter/base-notebook`. Java 17 is installed on top with IJava 1.3.0, to allow java kernel to be created in jupyter.
 
 e.g.:
-![IJava Example](ijava.png)
+![IJava Example](IJava.png)
